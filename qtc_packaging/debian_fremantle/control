@@ -1,0 +1,16 @@
+Source: quickhit
+Section: user/hidden
+Priority: optional
+Maintainer: nandita <nandita@unknown>
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: quickhit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Space Invaders like arcade game.
+ <insert long description, indented with spaces>
+XSBC-Maemo-Display-Name: QuickHit
+XB-Meego-Desktop-Entry: 
+XB-MeeGo-Desktop-Entry-Filename: 

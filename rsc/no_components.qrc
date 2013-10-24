@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="AppWindow.qml">../qml/no_components.qml</file>
+    </qresource>
+</RCC>

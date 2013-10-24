@@ -1,0 +1,11 @@
+Source: leveltwo
+Section: user/games
+Priority: extra
+Maintainer: Forum Nokia <FN.Documentation@nokia.com>
+Standards-Version: 3.7.2
+
+Package: leveltwo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: QuickHit - LevelTwo
+ QuickHit - LevelTwo

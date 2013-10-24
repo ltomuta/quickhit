@@ -1,0 +1,126 @@
+<mockup version="1.0" skin="sketch" measuredW="3293" measuredH="2034" mockupW="3187" mockupH="2004">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="96" y="20" w="360" h="640" measuredW="360" measuredH="640" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/splash%2520screen.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="2923" y="1375" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main%2520menu%25202.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="490" y="394" w="177" h="139" measuredW="150" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Main%20menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="1339" y="705" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/info%2520view.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Arrow" x="1091" y="294" w="205" h="126" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text>Level%20One</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="1339" y="20" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/level%2520one.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="1091" y="715" w="205" h="155" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Info%20view</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Arrow" x="523" y="870" w="271" h="514" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <text>Buy%20view</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="96" y="1384" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/buy%2520view.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="1218" y="1375" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iap%2520buy.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Arrow" x="484" y="1695" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text>purchase</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="649" y="1384" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iap%2520login.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Arrow" x="1040" y="1695" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="1792" y="1375" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iap%2520ok.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Arrow" x="1612" y="1710" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="2348" y="1375" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/installing.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Arrow" x="2174" y="1710" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="699" y="160" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/main%2520menu.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Arrow" x="2743" y="1710" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Image" x="1940" y="160" w="-1" h="-1" measuredW="360" measuredH="640" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iap%2520failed.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Arrow" x="1979" y="847" w="201" h="466" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <text>Purchase%20failed</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

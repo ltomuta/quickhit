@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Button.qml">../qml/Button.qml</file>
+        <file alias="Buy.qml">../qml/Buy.qml</file>
+        <file alias="Game.qml">../qml/Game.qml</file>
+        <file alias="Game.js">../qml/Game.js</file>
+        <file alias="Menu.qml">../qml/Menu.qml</file>
+        <file alias="Message.qml">../qml/Message.qml</file>
+        <file alias="MessageProgress.qml">../qml/MessageProgress.qml</file>
+        <file alias="Missile.qml">../qml/Missile.qml</file>
+        <file alias="MyShip.qml">../qml/MyShip.qml</file>
+        <file alias="ScrollBar.qml">../qml/ScrollBar.qml</file>
+        <file alias="TextLabel.qml">../qml/TextLabel.qml</file>
+        <file alias="InfoView.qml">../qml/InfoView.qml</file>
+        <file alias="ProgressBar.qml">../qml/ProgressBar.qml</file>
+        <file alias="gfx/back.png">../gfx/back.png</file>
+        <file alias="gfx/exit.png">../gfx/exit.png</file>
+        <file alias="gfx/pause.png">../gfx/pause.png</file>
+        <file alias="gfx/soundOn.png">../gfx/soundOn.png</file>
+        <file alias="gfx/soundOff.png">../gfx/soundOff.png</file>
+        <file alias="gfx/background2.png">../gfx/background2.png</file>
+        <file alias="gfx/bigship.png">../gfx/bigship.png</file>
+        <file alias="gfx/quickhit_logo.png">../gfx/quickhit_logo.png</file>
+        <file alias="gfx/thumbnail.png">../gfx/thumbnail.png</file>
+        <file alias="gfx/levelone.png">../gfx/levelone.png</file>
+        <file alias="gfx/leveltwo.png">../gfx/leveltwo.png</file>
+        <file alias="gfx/icon_about.png">../gfx/icon_about.png</file>
+        <file alias="gfx/icon_buy.png">../gfx/icon_buy.png</file>
+        <file alias="gfx/icon_end_game.png">../gfx/icon_end_game.png</file>
+        <file alias="gfx/icon_exit.png">../gfx/icon_exit.png</file>
+        <file alias="gfx/icon_resume.png">../gfx/icon_resume.png</file>
+        <file alias="gfx/shopping_cart.png">../gfx/shopping_cart.png</file>
+        <file alias="sound/menu1.wav">../sound/menu1.wav</file>
+        <file alias="sound/menu2.wav">../sound/menu2.wav</file>
+        <file alias="sound/gamestart.wav">../sound/gamestart.wav</file>
+        <file alias="sound/youwin.wav">../sound/youwin.wav</file>
+        <file alias="sound/gameover.wav">../sound/gameover.wav</file>
+    </qresource>
+</RCC>
